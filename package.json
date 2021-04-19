@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json",
+    "start": "json-server db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,11 +12,13 @@
     "url": "git+https://github.com/Danielpernnasc/data.git"
   },
   "keywords": [],
-  "author": "Daniel Nascimento",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Danielpernnasc/data/issues"
   },
   "homepage": "https://github.com/Danielpernnasc/data#readme",
-  "dependencies": {}
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
