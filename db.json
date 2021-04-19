@@ -210,6 +210,18 @@
       "fone": "(11) 96646-1111",
       "CPF": "291.048.288-01",
       "id": 9
+    },
+    {
+      "plano": "TI00002NA_NOVA_LINHA 2GB",
+      "nome": "Maria Cristina Amorim da Silva",
+      "email": "dpericles6@gmail.com",
+      "logradouro": "Padre Manoel Pedroso, 98",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "CEP": "03590-150",
+      "fone": "(11) 96646-1111",
+      "CPF": "999.999.999-99",
+      "id": 10
     }
   ]
 }
